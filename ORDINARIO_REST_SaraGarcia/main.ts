@@ -3,7 +3,7 @@ import mongoose from "npm:mongoose@8.0.1";
 
 //imports-----
 
-//------------
+//----------------------------------
 
 // Importación de función 'load' de Deno para cargar variables de entorno.
 import { load } from "https://deno.land/std@0.204.0/dotenv/mod.ts";
